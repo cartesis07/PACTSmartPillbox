@@ -1,0 +1,33 @@
+Compte-rendu interview pharmacien :
+
+Pharmacie
+
+=> Taille et poids des médicaments
+Poids: qqs grammes, genre 10 grammes pour un comprimé. Taille: qqs mm-cm, formes très diverses.
+
+=> Nombre médicaments pour un traitement complexe
+La Sécurité sociale a deux critères : plus de 5 lignes, âge. Dans le quartier parisien où se situe la pharmacie, cela représente une personne sur trois.
+
+=> Combien d’exemplaires de médicaments à l’achat ?
+2 cas de figure : traitement chronique ou aigu (ce dernier est plus compliqué, pour notre projet, se concentrer sur le premier). Pour un traitement chronique, les délivrances se font sur 1 mois (selon le boîtage, 28 ou 30j). Les piluliers actuels sont hebdomadaires, sinon ils seraient trop gros. Un pilulier intelligent permet d'ajouter les notions d'avant/pendant/après le repas.
+
+A noter qu'il existe aussi des comprimés "si douleur", et que ça peut valoir le coup de les implémenter dans l'appareil. Un objectif qu'on doit poursuivre avec notre objet est de savoir redonner de l'autonomie au patient. => pour ce cas précis, prévoir des compartiments dédiés à une "prise optionnelle / sur demande".
+
+Le pilulier doit donner lieu à une éducation thérapeutique. Les buts sont à la fois d'éviter les erreurs et les oublis, mais aussi de redonner de l'autonomie au patient face à son traitement.
+
+Autre difficulté : les génériques. Comprimé différent mais même effet => facteur de confusion. Un patient et sa famille aimeraient retrouver dans le "compartiment vert" soit un médicament soit son générique.
+
+Se poser la question "à quoi ça sert?". Le patient doit pouvoir se poser la question "Est-ce que j'arrête ou modifie le traitement?". Exemple des pbs de cœur, qui nécessitent des diurétiques. On les prend plutôt le matin que le soir (pcq pisser toute la nuit c'est pas cool). Mais si on doit prendre la route un jour, faut décaler la prise... Pouvoir prévoir ce genre de cas.
+
+Cibles: patients qui tremblent/voient mal, pas Alzeihmer (pcq les patients souffrant d'Alzeihmer sont entièrement suivis par des infirmiers ou infirmières qui tiennent très bien leur pilulier classique). Bref, nous on s'adresse à des patients en partie autonomes.
+
+=> Quelle conservation pour une pilule ?
+Les comprimés doivent être conservés de façon hermétique. L'hygrométrie doit être contrôlée (grâce à une poudre "décicateur"). Enfin, il ne faut pas que les UV passent.
+
+Cela relève du bon sens, mais la conservation du pilulier elle-même doit faire l'objet d'un minimum de soin : pas de radiateur, pas dans une salle humide.
+
+=> Quels sont les types de prise ?
+Les prises dépendent des moments de la journée et de la présence ou non d'alimentation.
+
+=> Comment se construisent les sachets ?
+Pas sûr d'avoir compris la question... 2 films métalliques et du plastique au milieu...

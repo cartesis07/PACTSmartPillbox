@@ -1,0 +1,15 @@
+=== Description de la proposition
+////
+*_Note: 2 page max._*
+
+//_Décrire de façon détaillée votre projet : motivations de base/problèmes
+//constatés avant élaboration du projet, comment votre projet répond à ces
+//besoins. Ajouter une image ou une figure pour montrer à quoi cela
+//ressemble si besoin._
+////
+
+La prise de médicaments est une tâche pendulière, habituelle, à laquelle il faut penser afin que les traitements soient efficaces. Nous aimerions renforcer ce point qu'est la régularité de la prise des traitements, en proposant un projet de pilulier intelligent. Ce projet est conçu pour des patients de bonne volonté, qui veulent suivre leur traitement avec succès. Ce projet est constitué d'une part d'un distributeur d'une application mobile, et d'autre part d'une boîte à compartiments distributrice de médicaments. L'application mobile est prévue pour être utilisable par une personne tierce et non nécessairement par le patient: il peut s'agir de la famille du patient ou d'un médecin notamment.
+
+L'application mobile permet de planifier la posologie de chaque médicament, médicament qui sera ensuite inséré dans un des compartiments de la machine (on précisera le nombre de pilules insérées à chaque insertion). Une tâche de planification intéressante, qui n'est pas possible avec les piluliers classiques, peut être de planifier un médicament en fonction d'un autre (par exemple une heure après). L'application mobile permet aussi d'accéder à des informations complémentaires sur les médicaments, notamment la notice dans l'éventualité où on l'aurait perdue.
+
+Le distributeur de médicaments est constitué de plusieurs compartiments de médicaments et d'un réceptacle où peuvent tomber les médicaments aux heures configurées depuis l'application mobile (la configuration est bien entendu stockée dans le distributeur). Lors de la chute d'un ou plusieurs médicaments, une alerte visuelle ainsi qu'une alerte sonore sont émises. En cas d'oubli de médicaments, la machine sera en mesure d'envoyer des alertes au(x) téléphone(s) portable(s) associés à la boîte pour avertir de la situation - les conditions précises d'alertes pourront être configurées dans l'application.

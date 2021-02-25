@@ -1,0 +1,22 @@
+Le format de stockage csv envisagé pour le moment correspond à une prise par ligne et se présente comme tel (exemple) :
+4 ; 1658 ; 16:05 ; 4 ; 7
+Le numéro de la roue ; L'identifiant du médicament (dans la base de donné) ; l'heure de la prise ; ; le nombre de jours avant de délivrer la prise ; le nombre de jours restant pour cette prise.
+Si plusieurs prises doivent être programmées dans la journée, il y aura autant de lignes sur le csv.
+Un champ "la prise commence dans tant de jours" pourra être ajouter.
+La question de stocker le nombre de jours ou la date est en discussion.
+
+Lors de la connexion du téléphone (création de la socket), le serveur envoie toutes ces données (lignes csv) au téléphone.
+Le téléphone stocke ces données et aucune modification ultérieure n'est nécéssaire jusqu'à la fermeture de l'application.
+A la fermeture, le téléphone efface toutes ces données (rien n'est gardé en cache)
+
+Lorsque l'utilisateur modifie un médicament/roue, le téléphone génére lui même les lines csv et les envoie au serveur.
+Le serveur supprime toutes les lignes corespondantes au médicament modifié et ajoute celles envoyées par le téléphone.
+
+Lors du remplissage d'une roue, l'arduino compte combien de médicaments ont été ajoutés et l'envoie au serveur.
+Le serveur envoie cette information au téléphone.
+
+Ces différents points permettent normalement d'éviter tout problème de synchronisation.
+Si l'application se déconnecte brutalement, les informations du serveur sont les seules valables (pas de copie gardée en mémoire du téléphone)
+Quid de la déconnection de l'arduino pendant le remplissage d'une roue ?
+
+Les alertes ne sont pas encore envisagées.

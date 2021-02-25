@@ -1,0 +1,97 @@
+=== Comptes Rendus de réunions
+
+Insérez ici vos comptes rendus de réunions : date, durée, participants,
+sujets abordés.
+
+==== Réunion du 17/09/19
+
+* Présents:
+
+** Audit Anna
+** Roussy Erwann
+** Danet Hugo
+** Ben Friat Adame
+** Mazars Michael
+** Sersouri Al-mahdi
+
+* Sujets abordés
+** *xxx* : Brainstorming. Profilage du groupe.
+
+* Actions à entreprendre:
+** Trouver une liste de sujets intéressants
+** Converger vers 3 sujets principaux
+
+==== Réunion du 17/09/19
+
+* Présents
+
+** Audit Anna
+** Roussy Erwann
+** Danet Hugo
+** Ben Friat Adame
+** Mazars Michael
+** Sersouri Al-mahdi
+** Hdida Jody
+
+* Sujets abordés
+** *xxx* : Convergence vers 3 sujets. Préparation de la foire aux experts.
+
+* Actions à entreprendre:
+** Réaliser un panneau de présentation pour chaque sujet
+
+==== Réunion du 01/10/19
+
+* Présents
+
+** Audit Anna
+** Roussy Erwann
+** Danet Hugo
+** Ben Friat Adame
+** Mazars Michael
+** Sersouri Al-mahdi
+** Hdida Jody
+
+* Sujets abordés
+** *xxx* :  Choix du sujet
+
+* Actions à entreprendre:
+** Rédaction bilan foire aux experts
+
+==== Réunion du 14/10/19
+
+* Présents
+
+** Audit Anna
+** Roussy Erwann
+** Danet Hugo
+** Ben Friat Adame
+** Mazars Michael
+** Sersouri Al-mahdi
+** Hdida Jody
+
+* Sujets abordés
+** *xxx* :  Cahier des charges. Scénario utilisateur. Schéma-blocs.
+
+* Actions à entreprendre:
+** Rédiger un scénario utilisateur
+** Contacter des experts
+** Réaliser un schéma-blocs
+
+==== Réunion du 06/11/19
+
+* Présents
+
+** Audit Anna
+** Roussy Erwann
+** Danet Hugo
+** Ben Friat Adame
+** Mazars Michael
+** Sersouri Al-mahdi
+** Hdida Jody
+
+* Sujets abordés
+** *xxx* :  Préparation PAN1
+
+* Actions à entreprendre:
+** Compléter git
+** Préparer la présentation du PAN1

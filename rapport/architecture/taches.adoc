@@ -1,0 +1,46 @@
+=== Tableau détaillé des tâches
+
+//****Note : 2 pages max - les fiches modules seront placées en annexe,
+//elles doivent être rédigées avec l’expert.****
+
+//Les différents aspects du projet sont découpés en tâches numérotées et
+//hiérarchisées (Tâches/sous-tâches, etc.). Chaque tâche est décrite
+//précisément et une équipe (typiquement un binôme) est affecté à sa
+//réalisation. Un module est typiquement constitué de plusieurs tâches et
+//sous-tâches. Pour le PAN3, vous aurez à démontrer une version simple,
+//*intégrée* et fonctionnelle de ce projet, nommée « prototype allégé ».
+//Dans le Tableau 1, complétez la colonne « Intégrée au PAN3 » comme
+//suit :
+
+//* Intégrée au PAN3 : la sous-tâche est soit finie soit en cours et
+//intégrée dans le prototype allégé.
+//* Non-intégrée au PAN3 : la sous-tâche est en cours, mais non intégrée
+//dans le prototype allégé, l’intégration se fera pour PAN4. L’avancement
+//de la sous-tâche sera donc démontré au PAN3 indépendamment du prototype
+//allégé (code MatLab ou autre)
+
+//Certaines sous-tâches peuvent ne pas être démontrables dans le prototype
+//allégé. Mettez-vous d’accord avec vos experts techniques pour savoir ce
+//qu’il est réaliste de démontrer au PAN3. N’hésitez pas à redécouper en 2
+//sous-taches, l’une démontrable au PAN3 et l’autre uniquement au PAN4.
+
+[cols=",,^",options="header",]
+|====
+| Tâche | Description                                           | Intégré au PAN3
+| T1    | Application Android                                   | X
+| T1.1  | Organisateur de la distribution des médicaments       | X
+| T1.2  | Scan et interprétation de QR code                     | X
+| T1.3  | Informations complémentaires sur les médicaments      |
+| T2    | Réalisation de la boîte                               | X
+| T2.1  | Conception de la boîte : aspects mécaniques           | X
+| T2.2  | Impression 3D et découpe laser des composants principaux  | X
+| T2.3  | Programmation Arduino de la distribution de médicaments (lecture données) | X
+| T2.4  | Intégration de capteurs                               | X
+| T2.5  | Intégration de haut-parleurs                          | X
+| T2.6  | Intégration d'un écran                                | 
+| T2.7  | Intégration d'un module SMS                           | 
+| T3    | Communication téléphone-boîte: via serveur intermédiaire | X
+| T3.1  | Sauvegarder dans la boîte (carte SD) le paramétrage de médicament fait via l'application| X
+| T3.2  | Lorsque nécessaire, la boîte doit s'ouvrir et permettre l'introduction de médicaments| X
+| T3.3  | Envoi d'alertes de la boîte vers le téléphone via serveur |
+|====

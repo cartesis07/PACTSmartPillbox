@@ -1,0 +1,9 @@
+Comment implémenter l'affichage de plusieurs prises sur le recyclerView
+erreur quand on supprime toutes les cartes et on ajoute une prise
+
+
+Accueil :
+Créer un handler d'erreur
+Sauvegarder l'IP et le port pour ne pas avoir à les re-rentrer à chaque fois 
+	=> changer le bouton connexion en info
+

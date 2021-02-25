@@ -1,0 +1,46 @@
+=== Description des interfaces (PAN1 / PAN2)
+
+////
+Pour le PAN1, il faut identifier et décrire sommairement toutes les
+interfaces entre modules.
+
+Pour le PAN2, il faut une description complête des interfaces.
+
+Il faut ici une description textuelle de chaque interface, c’est à dire +
+chaque échange entre deux blocs. Si c’est une interface entre deux blocs +
+informatiques, c’est une interface Java. S’il y a des échanges de +
+données complexes, il faut en décrire le format avec grande précision.
+Si c’est une interface +
+entre deux blocs électroniques, c’est une description des signaux +
+électroniques. Etc.
+////
+
+==== Interface Client serveur - Android
+
+Transmet les informations de l'application au serveur. Gère les alertes.
+
+==== Interface Android - Arduino
+
+Communication via une interface Java
+
+==== Interface Client/Serveur - Arduino
+
+Définit les instructions pour la carte Arduino.
+La carte Arduino "ping" régulièrement le serveur pour connaître les mises à jours.
+
+==== Interface Impression 3D - Arduino
+
+Imprimer les pièces mécaniques/support contrôler par l'Arduino.
+La carte Arduino doit être cachée par une pièce imprimée pour ne pas être accessible par l'utilisateur.
+
+==== Interface SES - Android
+
+L'application doit être ergonomique et facilement compréhensible.
+
+==== Interface Arduino - SES
+
+Les voyants doivent être efficaces sans être gênants.
+
+==== Interface Client/Serveur - SES
+
+La protection des données sur le serveur distant est fondamentale, puisqu'il s'agit là de données médicales.
